@@ -1,0 +1,105 @@
+=============================================
+Final Game Results
+Ending Balance: $0.19999999999863388, profit = $-99.80000000000136
+Total spins: 1208, Initial Bet Size: 0.2
+Cut a 8-streak loss 4 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $200.00000000000327, profit = $100.00000000000327
+Total spins: 2597, Initial Bet Size: 0.2
+Cut a 8-streak loss 3 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $0.19999999999929446, profit = $-99.80000000000071
+Total spins: 1036, Initial Bet Size: 0.2
+Cut a 8-streak loss 5 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $0.1999999999998422, profit = $-99.80000000000015
+Total spins: 104, Initial Bet Size: 0.2
+Cut a 8-streak loss 2 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $0.19999999999765494, profit = $-99.80000000000234
+Total spins: 1890, Initial Bet Size: 0.2
+Cut a 8-streak loss 6 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $0.25, profit = $-99.75
+Total spins: 5809, Initial Bet Size: 0.25
+Cut a 6-streak loss 52 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $0.25, profit = $-99.75
+Total spins: 2202, Initial Bet Size: 0.25
+Cut a 6-streak loss 23 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $0.25, profit = $-99.75
+Total spins: 1061, Initial Bet Size: 0.25
+Cut a 6-streak loss 14 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $0.25, profit = $-99.75
+Total spins: 1518, Initial Bet Size: 0.25
+Cut a 6-streak loss 17 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $0.25, profit = $-99.75
+Total spins: 3351, Initial Bet Size: 0.25
+Cut a 6-streak loss 33 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $0.25, profit = $-99.75
+Total spins: 522, Initial Bet Size: 0.25
+Cut a 8-streak loss 3 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $150.0, profit = $50.0
+Total spins: 415, Initial Bet Size: 0.25
+Cut a 8-streak loss 0 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $0.25, profit = $-99.75
+Total spins: 645, Initial Bet Size: 0.25
+Cut a 8-streak loss 2 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $150.0, profit = $50.0
+Total spins: 404, Initial Bet Size: 0.25
+Cut a 8-streak loss 0 times...
+=============================================
+
+=============================================
+Final Game Results
+Ending Balance: $150.0, profit = $50.0
+Total spins: 410, Initial Bet Size: 0.25
+Cut a 8-streak loss 0 times...
+=============================================
+
