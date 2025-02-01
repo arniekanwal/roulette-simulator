@@ -6,7 +6,7 @@ import collections
 import random
 
 class Roulette:
-    def __init__(self, _balance = 50.0, _init_bet_amt = 0.2, _stop_at = 100.0, _cut_streak_at = 7):
+    def __init__(self, _balance = 100.0, _init_bet_amt = 0.2, _stop_at = 200.0, _cut_streak_at = 8):
         # Logging variables
         self.starting_balance = _balance
         self.total_spins = 0
@@ -25,7 +25,7 @@ class Roulette:
         self.BLACK, self.RED = 0, 1
 
 
-    def spin_martingale(self, COLOR = 0) -> bool: # 
+    def spin_martingale(self, COLOR = 0): 
         losing_streak = 0
         while self.starting_bet_size < self.balance < self.stop_at:
             # start a new spin, reset bet size of current bet is greater than balance
