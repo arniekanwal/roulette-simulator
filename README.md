@@ -1,1 +1,9 @@
-# roulette-simulator
+## _Roulette Simulator_
+
+Made this dumb roulette simular in less than 30minutes. I wanted to simulate the Martingale strategy (idea where you double your bet every time you lose),
+to see what the chances of doubling your money on roulette could be.
+
+Starting with an initial bet of $0.25 and a balance of $100, it's possible, but most of the time you will lose. If you do win,
+you'll have spent hours at a table or wasted that time on an online casino.
+
+Moral of the story, DON'T gamble (unless it's a lock ofc). The house always wins...
